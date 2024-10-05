@@ -31,7 +31,7 @@ AndersonDoug19630829,Anderson,Doug,Doug Anderson,1963-08-29,Outside Left,,Winger
 AndersonIain19770723,Anderson,Iain,Iain Anderson,1977-07-23,,Midfielder,Right Winger,Right Midfield,
 AndersonTed19110717,Anderson,Ted,Ted Anderson,1911-07-17,Wing Half,,,,
 AntwiGodwin19880607,Antwi,Godwin,Godwin Antwi,1988-06-07,,Defender,Centre-Back,,
-ApterRob20030423,Apter,Rob,Rob Apter,2003-04-23,,Forward,Right Winger,Attacking Midfield,
+ApterRob20030423,Apter,Rob,Rob Apter,2003-04-23,,Midfielder,Right Winger,Attacking Midfield,
 AriyibiGboly19950118,Ariyibi,Gboly,Gboly Ariyibi,1995-01-18,,Forward,Left Winger,Right Winger,Attacking Midfield
 ArnellAlan19331125,Arnell,Alan,Alan Arnell,1933-11-25,Center Forward,,,,
 ArthurworreyStephen19941015,Arthurworrey,Stephen,Stephen Arthurworrey,1994-10-15,,Defender,Centre-Back,,
@@ -93,7 +93,7 @@ BowenWilliam19090316,Bowen,William,William Bowen,1909-03-16,Center Forward,,,,
 BracewellKen19361005,Bracewell,Ken,Ken Bracewell,1936-10-05,Fullback,,,,
 BradshawGeorge19040312,Bradshaw,George,George Bradshaw,1904-03-12,Left Back,,,,
 BradshawHarry18950122,Bradshaw,Harry,Harry Bradshaw,1895-01-22,Goalkeeper,,,,
-BradshawZak20030922,Bradshaw,Zak,Zak Bradshaw,2003-09-22,,Defender,Centre-Back,Defensive Midfield,Left-Back
+BradshawZak20030922,Bradshaw,Zak,Zak Bradshaw,2003-09-22,,Midfielder,Centre-Back,Defensive Midfield,Left-Back
 BramhallJohn19561120,Bramhall,John,John Bramhall,1956-11-20,Center Half,,,,
 BranchGraham19720212,Branch,Graham,Graham Branch,1972-02-12,Winger,Midfielder,Left Winger,Left Midfield,Left-Back
 BrannanGed19720115,Brannan,Ged,Ged Brannan,1972-01-15,Fullback,Midfielder,Central Midfield,Left-Back,
@@ -216,7 +216,7 @@ CurrieTony19500101,Currie,Tony,Tony Currie,1950-01-01,,,Attacking Midfield,,
 CurtisCharlie,Curtis,Charlie,Charlie Curtis,,Wing Half,,,,
 CurtisTom19730301,Curtis,Tom,Tom Curtis,1973-03-01,,Midfielder,Central Midfield,,
 DArcyFrank19461208,D'Arcy,Frank,Frank D'Arcy,1946-12-08,Fullback,,,,
-DacresCogleyJosh19960312,Dacres-Cogley,Josh,Josh Dacres-Cogley,1996-03-12,,Defender,Right-Back,,
+DacresCogleyJosh19960312,Dacres-Cogley,Josh,Josh Dacres-Cogley,1996-03-12,,Midfielder,Right-Back,,
 DadiEugene19730820,Dadi,Eugene,Eugene Dadi,1973-08-20,,Forward,Centre-Forward,,
 DagnallChris19860415,Dagnall,Chris,Chris Dagnall,1986-04-15,,Forward,Centre-Forward,Second Striker,
 DaleDickie18960521,Dale,Dickie,Dickie Dale,1896-05-21,Center Half,,,,
@@ -455,7 +455,7 @@ HopkinsonSamuel19020209,Hopkinson,Samuel,Samuel Hopkinson,1902-02-09,Left Half,,
 HornbyEric19230331,Hornby,Eric,Eric Hornby,1923-03-31,Fullback,,,,
 HorwoodEvan19860310,Horwood,Evan,Evan Horwood,1986-03-10,,Defender,Left-Back,,
 HorwoodNeil19640804,Horwood,Neil,Neil Horwood,1964-08-04,Center Forward,,,,
-HotiFlorent20001211,Hoti,Florent,Florent Hoti,2000-12-11,,Forward,Central Midfield,Defensive Midfield,Left Midfield
+HotiFlorent20001211,Hoti,Florent,Florent Hoti,2000-12-11,,Midfielder,Central Midfield,Defensive Midfield,Left Midfield
 HowarthRussell19820327,Howarth,Russell,Russell Howarth,1982-03-27,,Goalkeeper,Goalkeeper,,
 HudsonGeorge19370314,Hudson,George,George Hudson,1937-03-14,Center Forward,,Centre-Forward,,
 HughesDavid19430427,Hughes,David,David Hughes,1943-04-27,Winger,,,,
@@ -489,7 +489,7 @@ JamesJohn19481024,James,John,John James,1948-10-24,Forward,,,,
 JamesOliver19870113,James,Oliver,Oliver James,1987-01-13,,Midfielder,Central Midfield,Centre-Back,
 JamesonKyle19980911,Jameson,Kyle,Kyle Jameson,1998-09-11,,Defender,Centre-Back,Left-Back,
 JeffesAlbert18971001,Jeffes,Albert,Albert Jeffes,1897-10-01,Half Back,,,,
-JenningsConnor19911029,Jennings,Connor,Connor Jennings,1991-10-29,,Forward,Centre-Forward,Left Winger,Right Winger
+JenningsConnor19911029,Jennings,Connor,Connor Jennings,1991-10-29,,Midfielder,Centre-Forward,Left Winger,Right Winger
 JenningsDale19921221,Jennings,Dale,Dale Jennings,1992-12-21,,Midfielder,Left Winger,Centre-Forward,Right Winger
 JenningsSteven19841028,Jennings,Steven,Steven Jennings,1984-10-28,,Midfielder,Central Midfield,Defensive Midfield,
 JervisJake19910917,Jervis,Jake,Jake Jervis,1991-09-17,,Forward,Centre-Forward,Right Winger,Left Winger
@@ -540,7 +540,7 @@ KennedyPeter,Kennedy,Peter,Peter Kennedy,,,,Goalkeeper,,
 KennyBilly19511023,Kenny,Billy,Billy Kenny,1951-10-23,Midfielder,,,,
 KenworthyJon19740818,Kenworthy,Jon,Jon Kenworthy,1974-08-18,Outside Right,,,,
 KerrJohn19591123,Kerr,John,John Kerr,1959-11-23,Center Forward,,Centre-Forward,,
-KhanOtis19950905,Khan,Otis,Otis Khan,1995-09-05,,Forward,Left Winger,Right Midfield,Left Midfield
+KhanOtis19950905,Khan,Otis,Otis Khan,1995-09-05,,Midfielder,Left Winger,Right Midfield,Left Midfield
 KhanSaidou19951205,Khan,Saidou,Saidou Khan,1995-12-05,,Midfielder,Central Midfield,Left Midfield,Attacking Midfield
 KiddJackie19360115,Kidd,Jackie,Jackie Kidd,1936-01-15,Forward,,,,
 KieranLen19260725,Kieran,Len,Len Kieran,1926-07-25,Left Half,,,,
@@ -577,7 +577,7 @@ LewisCyril19090410,Lewis,Cyril,Cyril Lewis,1909-04-10,Outside Right,,,,
 LewisGinger11902,Lewis,Ginger,Ginger Lewis,,Left Half,,,,
 LewisJoseph,Lewis,Joseph,Joseph Lewis,,Right Back,,,,
 LewisNorman19080613,Lewis,Norman,Norman Lewis,1908-06-13,Goalkeeper,,Goalkeeper,,
-LewisPaul19941217,Lewis,Paul,Paul Lewis,1994-12-17,,Midfielder,Central Midfield,Attacking Midfield,Right Midfield
+LewisPaul19941217,Lewis,Paul,Paul Lewis,1994-12-17,,Forward,Central Midfield,Attacking Midfield,Right Midfield
 LeylandHarry19300512,Leyland,Harry,Harry Leyland,1930-05-12,Goalkeeper,,Goalkeeper,,
 LinwoodPaul19831024,Linwood,Paul,Paul Linwood,1983-10-24,,Defender,Centre-Back,,
 LittlehalesHarry19010826,Littlehales,Harry,Harry Littlehales,1901-08-26,Inside Forward,,,,
@@ -706,7 +706,7 @@ MoretonJimmy18910922,Moreton,Jimmy,Jimmy Moreton,1891-09-22,Outside Right,,,,
 MorganAlan19731102,Morgan,Alan,Alan Morgan,1973-11-02,Midfielder,Defender,Central Midfield,,
 MorleyBrian19601004,Morley,Brian,Brian Morley,1960-10-04,Defender,,,,
 MorrisCallum19920901,Morris,Callum,Callum Morris,1992-09-01,,Midfielder,Central Midfield,Right Midfield,Attacking Midfield
-MorrisKieron19940603,Morris,Kieron,Kieron Morris,1994-06-03,,Midfielder,Right Midfield,Left Winger,Attacking Midfield
+MorrisKieron19940603,Morris,Kieron,Kieron Morris,1994-06-03,,Forward,Right Midfield,Left Winger,Attacking Midfield
 MorrisseyJohnny19650308,Morrissey,Johnny,Johnny Morrissey,1965-03-08,Outside Right,Forward,Right Winger,Left Winger,
 MorrowSam19850303,Morrow,Sam,Sam Morrow,1985-03-03,,Forward,Centre-Forward,,
 MottleyHenryDylan19970802,Mottley-Henry,Dylan,Dylan Mottley-Henry,1997-08-02,,Midfielder,Right Midfield,Left Midfield,Attacking Midfield
@@ -742,7 +742,7 @@ NixonEric19621004,Nixon,Eric,Eric Nixon,1962-10-04,Goalkeeper,Goalkeeper,Goalkee
 NolanIan19700709,Nolan,Ian,Ian Nolan,1970-07-09,Fullback,,Left-Back,Right-Back,
 NolanJon19920422,Nolan,Jon,Jon Nolan,1992-04-22,,Midfielder,Central Midfield,Attacking Midfield,Defensive Midfield
 NorburnOliver19921026,Norburn,Oliver,Oliver Norburn,1992-10-26,,Midfielder,Central Midfield,Defensive Midfield,
-NormanCameron19951012,Norman,Cameron,Cameron Norman,1995-10-12,,Defender,Right-Back,Centre-Back,Left-Back
+NormanCameron19951012,Norman,Cameron,Cameron Norman,1995-10-12,,Midfielder,Right-Back,Centre-Back,Left-Back
 NorrisJames20030404,Norris,James,James Norris,2003-04-04,,Defender,Left-Back,Left Midfield,Central Midfield
 NorrisLuke19930603,Norris,Luke,Luke Norris,1993-06-03,,Forward,Centre-Forward,,
 NorwoodJames19900905,Norwood,James,James Norwood,1990-09-05,,Midfielder,,,
@@ -875,7 +875,7 @@ RussellCraig19740204,Russell,Craig,Craig Russell,1974-02-04,,Forward,Centre-Forw
 RutterEdward18980702,Rutter,Edward,Edward Rutter,1898-07-02,Left Half,,,,
 SalmonLen19120624,Salmon,Len,Len Salmon,1912-06-24,Wing Half,,,,
 SantosGeorges19700815,Santos,Georges,Georges Santos,1970-08-15,,Defender,Centre-Back,,
-SaundersHarvey19970720,Saunders,Harvey,Harvey Saunders,1997-07-20,,Forward,Centre-Forward,,
+SaundersHarvey19970720,Saunders,Harvey,Harvey Saunders,1997-07-20,,Midfielder,Centre-Forward,,
 SavageBas19820107,Savage,Bas,Bas Savage,1982-01-07,,Forward,Centre-Forward,Right Winger,
 SayerStan18950202,Sayer,Stan,Stan Sayer,1895-02-02,Center Forward,,,,
 ScottGeorge19441025,Scott,George,George Scott,1944-10-25,Inside Forward,,,,
