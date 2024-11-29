@@ -35,7 +35,7 @@ BensonLiam19920225,Benson,Liam,Liam Benson,1992-02-25,Defender
 BeresfordDavid19761111,Beresford,David,David Beresford,1976-11-11,Midfielder
 BlackMichael19761006,Black,Michael,Michael Black,1976-10-06,Midfielder
 BlackPaul19900118,Black,Paul,Paul Black,1990-01-18,Defender
-BlackettTaylorCorey19970923,Blackett-Taylor,Corey,Corey Blackett-Taylor,1997-09-23,Forward
+BlackettTaylorCorey19970923,Blackett-Taylor,Corey,Corey Blackett-Taylor,1997-09-23,Midfielder
 BlackhamJoe20010910,Blackham,Joe,Joe Blackham,2001-09-10,Midfielder
 BlanchardMaxime19860927,Blanchard,Maxime,Maxime Blanchard,1986-09-27,Defender
 BlissettNathan19900629,Blissett,Nathan,Nathan Blissett,1990-06-29,Forward
@@ -65,7 +65,7 @@ CaroleSebastien19820908,Carole,Sebastien,Sebastien Carole,1982-09-08,Midfielder
 CassidyJake19930209,Cassidy,Jake,Jake Cassidy,1993-02-09,Forward
 CathalinaTimothy19850124,Cathalina,Timothy,Timothy Cathalina,1985-01-24,Defender
 ChallinorDave19751002,Challinor,Dave,Dave Challinor,1975-10-02,Defender
-ChalmersLogan20000324,Chalmers,Logan,Logan Chalmers,2000-03-24,Forward
+ChalmersLogan20000324,Chalmers,Logan,Logan Chalmers,2000-03-24,Midfielder
 ChapmanAaron19900529,Chapman,Aaron,Aaron Chapman,1990-05-29,Goalkeeper
 ChorleyBen19820930,Chorley,Ben,Ben Chorley,1982-09-30,Defender
 ClarkeEddie19981229,Clarke,Eddie,Eddie Clarke,1998-12-29,Defender
@@ -85,7 +85,7 @@ CresswellAaron19891215,Cresswell,Aaron,Aaron Cresswell,1989-12-15,Defender
 CroughanTom19990919,Croughan,Tom,Tom Croughan,1999-09-19,Midfielder
 CurranCraig19890823,Curran,Craig,Craig Curran,1989-08-23,Forward
 CurtisTom19730301,Curtis,Tom,Tom Curtis,1973-03-01,Midfielder
-DacresCogleyJosh19960312,Dacres-Cogley,Josh,Josh Dacres-Cogley,1996-03-12,Defender
+DacresCogleyJosh19960312,Dacres-Cogley,Josh,Josh Dacres-Cogley,1996-03-12,Midfielder
 DadiEugene19730820,Dadi,Eugene,Eugene Dadi,1973-08-20,Forward
 DagnallChris19860415,Dagnall,Chris,Chris Dagnall,1986-04-15,Forward
 DanielsDonervon19931124,Daniels,Donervon,Donervon Daniels,1993-11-24,Defender
@@ -140,7 +140,7 @@ FosterStephen19800918,Foster,Stephen,Stephen Foster,1980-09-18,Defender
 FrailStephen19690810,Frail,Stephen,Stephen Frail,1969-08-10,Defender
 FrancisSimon19850216,Francis,Simon,Simon Francis,1985-02-16,Defender
 FraughanRyan19910211,Fraughan,Ryan,Ryan Fraughan,1991-02-11,Midfielder
-GardnerDan19900405,Gardner,Dan,Dan Gardner,1990-04-05,Midfielder
+GardnerDan19900405,Gardner,Dan,Dan Gardner,1990-04-05,Forward
 GeorgeShamal19980106,George,Shamal,Shamal George,1998-01-06,Goalkeeper
 GibsonBen19930115,Gibson,Ben,Ben Gibson,1993-01-15,Defender
 GibsonNeil19791010,Gibson,Neil,Neil Gibson,1979-10-10,Midfielder
@@ -192,7 +192,7 @@ HoganLiam19890208,Hogan,Liam,Liam Hogan,1989-02-08,Defender
 HolmesDanny19890106,Holmes,Danny,Danny Holmes,1989-01-06,Defender
 HolnessMarcus19881208,Holness,Marcus,Marcus Holness,1988-12-08,Defender
 HorwoodEvan19860310,Horwood,Evan,Evan Horwood,1986-03-10,Defender
-HotiFlorent20001211,Hoti,Florent,Florent Hoti,2000-12-11,Midfielder
+HotiFlorent20001211,Hoti,Florent,Florent Hoti,2000-12-11,Forward
 HowarthRussell19820327,Howarth,Russell,Russell Howarth,1982-03-27,Goalkeeper
 HughesJeff19850529,Hughes,Jeff,Jeff Hughes,1985-05-29,Midfielder
 HughesRhys20010921,Hughes,Rhys,Rhys Hughes,2001-09-21,Forward
@@ -207,7 +207,7 @@ JagoBen19960904,Jago,Ben,Ben Jago,1996-09-04,Midfielder
 JahraldoMartinCalaum19930427,Jahraldo-Martin,Calaum,Calaum Jahraldo-Martin,1993-04-27,Forward
 JamesOliver19870113,James,Oliver,Oliver James,1987-01-13,Midfielder
 JamesonKyle19980911,Jameson,Kyle,Kyle Jameson,1998-09-11,Defender
-JenningsConnor19911029,Jennings,Connor,Connor Jennings,1991-10-29,Midfielder
+JenningsConnor19911029,Jennings,Connor,Connor Jennings,1991-10-29,Forward
 JenningsDale19921221,Jennings,Dale,Dale Jennings,1992-12-21,Midfielder
 JenningsSteven19841028,Jennings,Steven,Steven Jennings,1984-10-28,Midfielder
 JervisJake19910917,Jervis,Jake,Jake Jervis,1991-09-17,Forward
@@ -248,7 +248,7 @@ LomaxArthur20040517,Lomax,Arthur,Arthur Lomax,2004-05-17,Midfielder
 LoranTyrone19810629,Loran,Tyrone,Tyrone Loran,1981-06-29,Defender
 LoweRyan19780918,Lowe,Ryan,Ryan Lowe,1978-09-18,Forward
 LucyCallum19981109,Lucy,Callum,Callum Lucy,1998-11-09,Midfielder
-MacDonaldCalum19971218,MacDonald,Calum,Calum MacDonald,1997-12-18,Defender
+MacDonaldCalum19971218,MacDonald,Calum,Calum MacDonald,1997-12-18,Midfielder
 MacauleyJosh19910302,Macauley,Josh,Josh Macauley,1991-03-02,Forward
 MackrethJack19920413,Mackreth,Jack,Jack Mackreth,1992-04-13,Forward
 MaddoxJacob19981103,Maddox,Jacob,Jacob Maddox,1998-11-03,Midfielder
@@ -297,7 +297,7 @@ MontheEmmanuel19950126,Monthe,Emmanuel,Emmanuel Monthe,1995-01-26,Defender
 MooneyJason19890226,Mooney,Jason,Jason Mooney,1989-02-26,Goalkeeper
 MorganAlan19731102,Morgan,Alan,Alan Morgan,1973-11-02,Defender
 MorrisCallum19920901,Morris,Callum,Callum Morris,1992-09-01,Midfielder
-MorrisKieron19940603,Morris,Kieron,Kieron Morris,1994-06-03,Forward
+MorrisKieron19940603,Morris,Kieron,Kieron Morris,1994-06-03,Midfielder
 MorrisseyJohnny19650308,Morrissey,Johnny,Johnny Morrissey,1965-03-08,Forward
 MorrowSam19850303,Morrow,Sam,Sam Morrow,1985-03-03,Forward
 MottleyHenryDylan19970802,Mottley-Henry,Dylan,Dylan Mottley-Henry,1997-08-02,Midfielder
@@ -323,12 +323,12 @@ NorburnOliver19921026,Norburn,Oliver,Oliver Norburn,1992-10-26,Midfielder
 NormanCameron19951012,Norman,Cameron,Cameron Norman,1995-10-12,Defender
 NorrisJames20030404,Norris,James,James Norris,2003-04-04,Defender
 NorrisLuke19930603,Norris,Luke,Luke Norris,1993-06-03,Forward
-NorwoodJames19900905,Norwood,James,James Norwood,1990-09-05,Midfielder
+NorwoodJames19900905,Norwood,James,James Norwood,1990-09-05,Forward
 NugentDavid19850502,Nugent,David,David Nugent,1985-05-02,Forward
 NugentGeorge20011204,Nugent,George,George Nugent,2001-12-04,Midfielder
 OBrienLiam19640905,O'Brien,Liam,Liam O'Brien,1964-09-05,Midfielder
 OCallaghanGeorge19790905,O'Callaghan,George,George O'Callaghan,1979-09-05,Midfielder
-OConnorLee20000728,O'Connor,Lee,Lee O'Connor,2000-07-28,Defender
+OConnorLee20000728,O'Connor,Lee,Lee O'Connor,2000-07-28,Midfielder
 OHalloranMichael19910106,O'Halloran,Michael,Michael O'Halloran,1991-01-06,Forward
 OLearyStephen19870202,O'Leary,Stephen,Stephen O'Leary,1987-02-02,Midfielder
 ONeillLuke19910820,O'Neill,Luke,Luke O'Neill,1991-08-20,Defender
@@ -343,11 +343,11 @@ PalethorpePhilip19860917,Palethorpe,Philip,Philip Palethorpe,1986-09-17,Goalkeep
 PalmerLiam19910919,Palmer,Liam,Liam Palmer,1991-09-19,Defender
 ParkinsonAndy19790527,Parkinson,Andy,Andy Parkinson,1979-05-27,Midfielder
 PassantBailey20001129,Passant,Bailey,Bailey Passant,2000-11-29,Goalkeeper
-PatrickOmari19960524,Patrick,Omari,Omari Patrick,1996-05-24,Forward
+PatrickOmari19960524,Patrick,Omari,Omari Patrick,1996-05-24,Midfielder
 PayneStefan19910810,Payne,Stefan,Stefan Payne,1991-08-10,Forward
 PenningtonMatthew19941006,Pennington,Matthew,Matthew Pennington,1994-10-06,Defender
 PerkinsDavid19820621,Perkins,David,David Perkins,1982-06-21,Midfielder
-PetersonKristoffer19941128,Peterson,Kristoffer,Kristoffer Peterson,1994-11-28,Forward
+PetersonKristoffer19941128,Peterson,Kristoffer,Kristoffer Peterson,1994-11-28,Midfielder
 PikeDan20020109,Pike,Dan,Dan Pike,2002-01-09,Defender
 PillingLuke19970725,Pilling,Luke,Luke Pilling,1997-07-25,Goalkeeper
 PonticelliJordan19980910,Ponticelli,Jordan,Jordan Ponticelli,1998-09-10,Forward
@@ -377,7 +377,7 @@ RokkaElliot19960316,Rokka,Elliot,Elliot Rokka,1996-03-16,Midfielder
 RoweJames19911021,Rowe,James,James Rowe,1991-10-21,Midfielder
 RussellCraig19740204,Russell,Craig,Craig Russell,1974-02-04,Forward
 SantosGeorges19700815,Santos,Georges,Georges Santos,1970-08-15,Defender
-SaundersHarvey19970720,Saunders,Harvey,Harvey Saunders,1997-07-20,Midfielder
+SaundersHarvey19970720,Saunders,Harvey,Harvey Saunders,1997-07-20,Forward
 SavageBas19820107,Savage,Bas,Bas Savage,1982-01-07,Forward
 SeremetDino19800816,Seremet,Dino,Dino Seremet,1980-08-16,Goalkeeper
 SharpsIan19801023,Sharps,Ian,Ian Sharps,1980-10-23,Defender
@@ -393,11 +393,11 @@ SmithJonny19970728,Smith,Jonny,Jonny Smith,1997-07-28,Midfielder
 SmithSam19980308,Smith,Sam,Sam Smith,1998-03-08,Forward
 SodjeAkpo19800131,Sodje,Akpo,Akpo Sodje,1980-01-31,Forward
 SolomonDaviesJosh19991120,Solomon-Davies,Josh,Josh Solomon-Davies,1999-11-20,Defender
-SolomonSol20010317,Solomon,Sol,Sol Solomon,2001-03-17,Midfielder
+SolomonSol20010317,Solomon,Sol,Sol Solomon,2001-03-17,Forward
 SonkoEdrissa19800323,Sonko,Edrissa,Edrissa Sonko,1980-03-23,Midfielder
 SordellMarvin19910217,Sordell,Marvin,Marvin Sordell,1991-02-17,Forward
 SousaErico19950312,Sousa,Erico,Erico Sousa,1995-03-12,Midfielder
-SpearingJay19881125,Spearing,Jay,Jay Spearing,1988-11-25,Midfielder
+SpearingJay19881125,Spearing,Jay,Jay Spearing,1988-11-25,Defender
 SpellmanCarl20001106,Spellman,Carl,Carl Spellman,2000-11-06,Midfielder
 StarbuckJoseph20020803,Starbuck,Joseph,Joseph Starbuck,2002-08-03,Defender
 StephensonDarren19930306,Stephenson,Darren,Darren Stephenson,1993-03-06,Forward
@@ -438,7 +438,7 @@ TurnerIain19840126,Turner,Iain,Iain Turner,1984-01-26,Goalkeeper
 VaughanJames19880714,Vaughan,James,James Vaughan,1988-07-14,Forward
 VaughanLee19860717,Vaughan,Lee,Lee Vaughan,1986-07-17,Defender
 VaulksWill19930913,Vaulks,Will,Will Vaulks,1993-09-13,Midfielder
-WalkerBrad19960425,Walker,Brad,Brad Walker,1996-04-25,Defender
+WalkerBrad19960425,Walker,Brad,Brad Walker,1996-04-25,Midfielder
 WalkerRiceDanny20001110,Walker-Rice,Danny,Danny Walker-Rice,2000-11-10,Forward
 WalkerStephen20001011,Walker,Stephen,Stephen Walker,2000-10-11,Midfielder
 WallaceJames19911219,Wallace,James,James Wallace,1991-12-19,Midfielder
