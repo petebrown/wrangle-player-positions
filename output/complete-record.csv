@@ -1,7 +1,6 @@
 player_id,surname,forename,player_name,player_dob,comp_rec_pos
 ACourtAlan19340930,A'Court,Alan,Alan A'Court,1934-09-30,Outside Left
-AdamsArthur,Adams,Arthur,Arthur Adams,,Outside Right
-AdamsEdward19081112,Adams,Edward,Edward Adams,1908-11-12,Outside Right
+AdamsArthur19081112,Adams,Arthur,Arthur Adams,1908-11-12,Outside Right
 AdkinsNigel19650311,Adkins,Nigel,Nigel Adkins,1965-03-11,Goalkeeper
 AlcockEdward1914,Alcock,Edward,Edward Alcock,,Outside Left
 AldridgeJohn19580918,Aldridge,John,John Aldridge,1958-09-18,Forward
@@ -105,7 +104,7 @@ ClintonTommy19260413,Clinton,Tommy,Tommy Clinton,1926-04-13,Fullback
 ColemanTony19450502,Coleman,Tony,Tony Coleman,1945-05-02,Outside Left
 CollingsPaul19680930,Collings,Paul,Paul Collings,1968-09-30,Goalkeeper
 ConnerDick19310813,Conner,Dick,Dick Conner,1931-08-13,Wing Half
-ConnorBill,Connor,Bill,Bill Connor,,Right Back
+ConnerBill,Conner,Bill,Bill Conner,,Right Back
 ConnorJohn19140201,Connor,John,John Connor,1914-02-01,Fullback
 ConroyBobby19290620,Conroy,Bobby,Bobby Conroy,1929-06-20,Left Back
 CookFred,Cook,Fred,Fred Cook,,Outside Right
@@ -212,7 +211,6 @@ GouldHarry19250105,Gould,Harry,Harry Gould,1925-01-05,Inside Forward
 GrahamBobby19441122,Graham,Bobby,Bobby Graham,1944-11-22,Forward
 GraingerJohn1896,Grainger,John,John Grainger,,Right Back
 GrayAlbert19000923,Gray,Albert,Albert Gray,1900-09-23,Goalkeeper
-GrayMatthew19070418,Gray,Matthew,Matthew Gray,1907-04-18,Left Half
 GrayRobert19031007,Gray,Robert,Robert Gray,1903-10-07,Left Half
 GreenJohnny19390522,Green,Johnny,Johnny Green,1939-05-22,Inside Forward
 GreenwoodRoy19520926,Greenwood,Roy,Roy Greenwood,1952-09-26,Forward
@@ -277,9 +275,9 @@ JacksonArchie19010125,Jackson,Archie,Archie Jackson,1901-01-25,Center Half
 JacksonDavid19370123,Jackson,David,David Jackson,1937-01-23,Inside Forward
 JacksonGeorge18930617,Jackson,George,George Jackson,1893-06-17,Fullback
 JacksonJimmy18960414,Jackson,Jimmy,Jimmy Jackson,1896-04-14,Inside Forward
+JacksonPat19241208,Jackson,Pat,Pat Jackson,1924-12-08,Half Back
 JacksonPeter19370123,Jackson,Peter,Peter Jackson,1937-01-23,Center Half
 JacksonWilliam,Jackson,William,William Jackson,,Fullback
-JacksonWiliam19241208,Jackson,Wiliam,Wiliam Jackson,1924-12-08,Half Back
 JamesJohn19481024,James,John,John James,1948-10-24,Forward
 JeffesAlbert18971001,Jeffes,Albert,Albert Jeffes,1897-10-01,Half Back
 JohnsonBrian19481029,Johnson,Brian,Brian Johnson,1948-10-29,Half Back
@@ -602,7 +600,7 @@ WinnEdward,Winn,Edward,Edward Winn,,Center Half
 WoanDon19271107,Woan,Don,Don Woan,1927-11-07,Forward
 WoodAlbert19030425,Wood,Albert,Albert Wood,1903-04-25,Inside Left
 WoodArchie19260318,Wood,Archie,Archie Wood,1926-03-18,Outside Left
-WoodinSteve19550106,Woodin,Steve,Steve Woodin,1955-01-06,Winger
+WooddinSteve19550106,Wooddin,Steve,Steve Wooddin,1955-01-06,Winger
 WoodsBilly19731024,Woods,Billy,Billy Woods,1973-10-24,Winger
 WoodsRay19650607,Woods,Ray,Ray Woods,1965-06-07,Midfielder
 WoodwardBilly,Woodward,Billy,Billy Woodward,,Inside Left

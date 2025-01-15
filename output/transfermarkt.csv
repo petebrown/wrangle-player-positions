@@ -44,7 +44,7 @@ BeresfordDavid19761111,Beresford,David,David Beresford,1976-11-11,Left Winger,Le
 BishopEddie19621128,Bishop,Eddie,Eddie Bishop,1962-11-28,Central Midfield,,
 BlackMichael19761006,Black,Michael,Michael Black,1976-10-06,Left Winger,Right Winger,
 BlackPaul19900118,Black,Paul,Paul Black,1990-01-18,Left-Back,,
-BlackettTaylorCorey19970923,Blackett-Taylor,Corey,Corey Blackett-Taylor,1997-09-23,Right Winger,Left Winger,
+BlackettTaylorCorey19970923,Blackett-Taylor,Corey,Corey Blackett-Taylor,1997-09-23,Left Winger,Right Winger,
 BlackhamJoe20010910,Blackham,Joe,Joe Blackham,2001-09-10,Defensive Midfield,Central Midfield,Right-Back
 BlanchardMaxime19860927,Blanchard,Maxime,Maxime Blanchard,1986-09-27,Centre-Back,Right-Back,Defensive Midfield
 BlissettNathan19900629,Blissett,Nathan,Nathan Blissett,1990-06-29,Centre-Forward,Left Winger,Right Winger
@@ -83,7 +83,7 @@ ChallinorDave19751002,Challinor,Dave,Dave Challinor,1975-10-02,Centre-Back,,
 ChalmersLogan20000324,Chalmers,Logan,Logan Chalmers,2000-03-24,Left Winger,Right Winger,
 ChapmanAaron19900529,Chapman,Aaron,Aaron Chapman,1990-05-29,Goalkeeper,,
 ChorleyBen19820930,Chorley,Ben,Ben Chorley,1982-09-30,Centre-Back,Defensive Midfield,
-ClarkeEddie19981229,Clarke,Eddie,Eddie Clarke,1998-12-29,Left-Back,,
+ClarkeEddie19981229,Clarke,Eddie,Eddie Clarke,1998-12-29,Left-Back,Left Midfield,Left Winger
 ClarkePeter19820103,Clarke,Peter,Peter Clarke,1982-01-03,Centre-Back,,
 ColeLarnell19930309,Cole,Larnell,Larnell Cole,1993-03-09,Right Midfield,Attacking Midfield,Left Midfield
 CollinsAaron19970527,Collins,Aaron,Aaron Collins,1997-05-27,Centre-Forward,Right Winger,Left Winger
@@ -247,7 +247,7 @@ HowarthRussell19820327,Howarth,Russell,Russell Howarth,1982-03-27,Goalkeeper,,
 HudsonGeorge19370314,Hudson,George,George Hudson,1937-03-14,Centre-Forward,,
 HughesJeff19850529,Hughes,Jeff,Jeff Hughes,1985-05-29,Central Midfield,Left Midfield,Left-Back
 HughesMark19620203,Hughes,Mark,Mark Hughes,1962-02-03,Centre-Back,Sweeper,
-HughesRhys20010921,Hughes,Rhys,Rhys Hughes,2001-09-21,Attacking Midfield,Left Midfield,Central Midfield
+HughesRhys20010921,Hughes,Rhys,Rhys Hughes,2001-09-21,Attacking Midfield,Left Winger,Central Midfield
 HugillJordan19920604,Hugill,Jordan,Jordan Hugill,1992-06-04,Centre-Forward,,
 HumeIain19831030,Hume,Iain,Iain Hume,1983-10-30,Centre-Forward,,
 IhiekweMichael19921120,Ihiekwe,Michael,Michael Ihiekwe,1992-11-20,Centre-Back,Right-Back,
@@ -422,7 +422,7 @@ OlsenJames19811023,Olsen,James,James Olsen,1981-10-23,Left-Back,Left Midfield,
 OmotolaTolani19980416,Omotola,Tolani,Tolani Omotola,1998-04-16,Centre-Forward,,
 OnuoraIffy19670728,Onuora,Iffy,Iffy Onuora,1967-07-28,Centre-Forward,,
 OsbornSimon19720119,Osborn,Simon,Simon Osborn,1972-01-19,Central Midfield,,
-OsborneElliot19960512,Osborne,Elliot,Elliot Osborne,1996-05-12,Central Midfield,,
+OsborneElliot19960512,Osborne,Elliot,Elliot Osborne,1996-05-12,Central Midfield,Central Midfield,
 OtsemoborJon19830323,Otsemobor,Jon,Jon Otsemobor,1983-03-23,Right-Back,Centre-Back,
 PalethorpePhil19860917,Palethorpe,Phil,Phil Palethorpe,1986-09-17,Goalkeeper,,
 PaliosMark19521109,Palios,Mark,Mark Palios,1952-11-09,,,
@@ -462,6 +462,7 @@ RidehalghLiam19910420,Ridehalgh,Liam,Liam Ridehalgh,1991-04-20,Left-Back,Centre-
 RideoutPaul19640814,Rideout,Paul,Paul Rideout,1964-08-14,Centre-Forward,,
 RileyMartin19861205,Riley,Martin,Martin Riley,1986-12-05,Centre-Back,,
 RobertsGareth19780206,Roberts,Gareth,Gareth Roberts,1978-02-06,Left-Back,,
+RobertsonTeddie19351219,Robertson,Teddie,Teddie Robertson,1935-12-19,Right-Back,,
 RobinsonAndy19791103,Robinson,Andy,Andy Robinson,1979-11-03,Left Midfield,Right Midfield,Central Midfield
 RobinsonLuke20011120,Robinson,Luke,Luke Robinson,2001-11-20,Left-Back,,
 RobinsonMarvin19800411,Robinson,Marvin,Marvin Robinson,1980-04-11,Centre-Forward,,
@@ -478,7 +479,7 @@ SaundersHarvey19970720,Saunders,Harvey,Harvey Saunders,1997-07-20,Centre-Forward
 SavageBas19820107,Savage,Bas,Bas Savage,1982-01-07,Centre-Forward,Right Winger,
 SeremetDino19800816,Seremet,Dino,Dino Seremet,1980-08-16,Goalkeeper,,
 SharpsIan19801023,Sharps,Ian,Ian Sharps,1980-10-23,Centre-Back,,
-ShepherdPaul19771117,Shepherd,Paul,Paul Shepherd,1977-11-17,Centre-Forward,,
+ShepherdPaul19771117,Shepherd,Paul,Paul Shepherd,1977-11-17,Right-Back,Centre-Forward,
 ShottonRyan19881030,Shotton,Ryan,Ryan Shotton,1988-10-30,Centre-Back,Right-Back,
 ShowunmiEnoch19820421,Showunmi,Enoch,Enoch Showunmi,1982-04-21,Centre-Forward,,
 ShukerChris19820509,Shuker,Chris,Chris Shuker,1982-05-09,Right Midfield,Left Midfield,
@@ -486,6 +487,7 @@ SidibeMamady19791218,Sidibé,Mamady,Mamady Sidibé,1979-12-18,Centre-Forward,,
 SimeuDynel20020313,Simeu,Dynel,Dynel Simeu,2002-03-13,Centre-Back,Right-Back,
 SimonsenSteve19790403,Simonsen,Steve,Steve Simonsen,1979-04-03,Goalkeeper,,
 SinnottLewis20020304,Sinnott,Lewis,Lewis Sinnott,2002-03-04,Right-Back,Left-Back,
+SmithDerek19460705,Smith,Derek,Derek Smith,1946-07-05,Centre-Back,Centre-Forward,
 SmithJohn19700723,Smith,John,John Smith,1970-07-23,Right-Back,,
 SmithJonny19970728,Smith,Jonny,Jonny Smith,1997-07-28,Right Winger,Left Winger,
 SmithSam19980308,Smith,Sam,Sam Smith,1998-03-08,Centre-Forward,Right Winger,
