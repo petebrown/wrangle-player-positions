@@ -214,7 +214,7 @@ CurrieTony19500101,Currie,Tony,Tony Currie,1950-01-01,,,Attacking Midfield,,
 CurtisCharlie,Curtis,Charlie,Charlie Curtis,,Wing Half,,,,
 CurtisTom19730301,Curtis,Tom,Tom Curtis,1973-03-01,,Midfielder,Central Midfield,,
 DArcyFrank19461208,D'Arcy,Frank,Frank D'Arcy,1946-12-08,Fullback,,,,
-DacresCogleyJosh19960312,Dacres-Cogley,Josh,Josh Dacres-Cogley,1996-03-12,,Midfielder,Right-Back,,
+DacresCogleyJosh19960312,Dacres-Cogley,Josh,Josh Dacres-Cogley,1996-03-12,,Defender,Right-Back,,
 DadiEugene19730820,Dadi,Eugene,Eugene Dadi,1973-08-20,,Forward,Centre-Forward,,
 DagnallChris19860415,Dagnall,Chris,Chris Dagnall,1986-04-15,,Forward,Centre-Forward,Second Striker,
 DaleDickie18960521,Dale,Dickie,Dickie Dale,1896-05-21,Center Half,,,,
@@ -247,7 +247,7 @@ DempseyJohn19510402,Dempsey,John,John Dempsey,1951-04-02,Fullback,,,,
 DennisKristian19900312,Dennis,Kristian,Kristian Dennis,1990-03-12,,Forward,Centre-Forward,,
 DevaneyMartin19800601,Devaney,Martin,Martin Devaney,1980-06-01,,Midfielder,Right Midfield,Left Midfield,
 DevineJames19990726,Devine,James,James Devine,1999-07-26,,Midfielder,Central Midfield,Defensive Midfield,
-DieseruvweEmmanuel19950220,Dieseruvwe,Emmanuel,Emmanuel Dieseruvwe,1995-02-20,,Midfielder,Centre-Forward,,
+DieseruvweEmmanuel19950220,Dieseruvwe,Emmanuel,Emmanuel Dieseruvwe,1995-02-20,,Forward,Centre-Forward,,
 DillonVince19231002,Dillon,Vince,Vince Dillon,1923-10-02,Center Forward,,,,
 DixonErnie19010710,Dixon,Ernie,Ernie Dixon,1901-07-10,Center Forward,,,,
 DockingStan19141213,Docking,Stan,Stan Docking,1914-12-13,Inside Left,,,,
@@ -312,7 +312,7 @@ FeuerIan19710520,Feuer,Ian,Ian Feuer,1971-05-20,,Goalkeeper,Goalkeeper,,
 FinlayPat19380318,Finlay,Pat,Pat Finlay,1938-03-18,Left Back,,,,
 FinleySam19920804,Finley,Sam,Sam Finley,1992-08-04,,Midfielder,Central Midfield,Defensive Midfield,Attacking Midfield
 FinneyKen19290310,Finney,Ken,Ken Finney,1929-03-10,Outside Right,,Right Winger,,
-FisherMax20031003,Fisher,Max,Max Fisher,2003-10-03,,Midfielder,Centre-Forward,,
+FisherMax20031003,Fisher,Max,Max Fisher,2003-10-03,,Midfielder,,,
 FishwickBert11899,Fishwick,Bert,Bert Fishwick,,Inside Left,,,,
 FlanaganJack11902,Flanagan,Jack,Jack Flanagan,,Center Forward,,,,
 FlemingJack19990110,Fleming,Jack,Jack Fleming,1999-01-10,,Midfielder,Centre-Back,Left-Back,
@@ -321,7 +321,7 @@ FloodEddie19521119,Flood,Eddie,Eddie Flood,1952-11-19,Fullback,,Left-Back,Centre
 FlowersGeorge19070507,Flowers,George,George Flowers,1907-05-07,Left Half,,,,
 FlynnSean19680313,Flynn,Sean,Sean Flynn,1968-03-13,,Midfielder,Central Midfield,Central Midfield,
 FoggBilly19030309,Fogg,Billy,Billy Fogg,1903-03-09,Inside Right,,,,
-FoleySam19861017,Foley,Sam,Sam Foley,1986-10-17,,Midfielder,Central Midfield,Left Midfield,Right Midfield
+FoleySam19861017,Foley,Sam,Sam Foley,1986-10-17,,Defender,Central Midfield,Left Midfield,Right Midfield
 FonWilliamsOwain19870317,Fon Williams,Owain,Owain Fon Williams,1987-03-17,,Goalkeeper,Goalkeeper,,
 FordJohn,Ford,John,John Ford,,Inside Right,,,,
 ForshawAllen,Forshaw,Allen,Allen Forshaw,,Right Back,,,,
@@ -475,6 +475,7 @@ JacksonArchie19010125,Jackson,Archie,Archie Jackson,1901-01-25,Center Half,,,,
 JacksonDavid19370123,Jackson,David,David Jackson,1937-01-23,Inside Forward,,,,
 JacksonGeorge18930617,Jackson,George,George Jackson,1893-06-17,Fullback,,,,
 JacksonJimmy18960414,Jackson,Jimmy,Jimmy Jackson,1896-04-14,Inside Forward,,,,
+JacksonLouis20050918,Jackson,Louis,Louis Jackson,2005-09-18,,,Centre-Back,,
 JacksonMarlon19901206,Jackson,Marlon,Marlon Jackson,1990-12-06,,Forward,Centre-Forward,Left Winger,Right Winger
 JacksonMike19731204,Jackson,Mike,Mike Jackson,1973-12-04,,Defender,Centre-Back,,
 JacksonPat19241208,Jackson,Pat,Pat Jackson,1924-12-08,Half Back,,,,
@@ -486,7 +487,7 @@ JamesJohn19481024,James,John,John James,1948-10-24,Forward,,,,
 JamesOliver19870113,James,Oliver,Oliver James,1987-01-13,,Midfielder,Central Midfield,Centre-Back,
 JamesonKyle19980911,Jameson,Kyle,Kyle Jameson,1998-09-11,,Defender,Centre-Back,Left-Back,
 JeffesAlbert18971001,Jeffes,Albert,Albert Jeffes,1897-10-01,Half Back,,,,
-JenningsConnor19911029,Jennings,Connor,Connor Jennings,1991-10-29,,Midfielder,Centre-Forward,Left Winger,Right Winger
+JenningsConnor19911029,Jennings,Connor,Connor Jennings,1991-10-29,,Forward,Centre-Forward,Left Winger,Right Winger
 JenningsDale19921221,Jennings,Dale,Dale Jennings,1992-12-21,,Midfielder,Left Winger,Centre-Forward,Right Winger
 JenningsSteven19841028,Jennings,Steven,Steven Jennings,1984-10-28,,Midfielder,Central Midfield,Defensive Midfield,
 JervisJake19910917,Jervis,Jake,Jake Jervis,1991-09-17,,Forward,Centre-Forward,Right Winger,Left Winger
@@ -600,7 +601,7 @@ MacauleyJosh19910302,Macauley,Josh,Josh Macauley,1991-03-02,,Forward,Centre-Forw
 MackayWilliam,Mackay,William,William Mackay,,Outside Right,,,,
 MackrethJack19920413,Mackreth,Jack,Jack Mackreth,1992-04-13,,Forward,Right Midfield,Central Midfield,
 MaddocksEmlyn19170706,Maddocks,Emlyn,Emlyn Maddocks,1917-07-06,Center Forward,,,,
-MaddoxJacob19981103,Maddox,Jacob,Jacob Maddox,1998-11-03,,Midfielder,Attacking Midfield,Right Midfield,Left Midfield
+MaddoxJacob19981103,Maddox,Jacob,Jacob Maddox,1998-11-03,,Forward,Attacking Midfield,Right Midfield,Left Midfield
 MadjoGuy19840601,Madjo,Guy,Guy Madjo,1984-06-01,,Forward,Centre-Forward,,
 MaguireJoe19960118,Maguire,Joe,Joe Maguire,1996-01-18,,Defender,Left-Back,Centre-Back,Right-Back
 MaherAiden19461201,Maher,Aiden,Aiden Maher,1946-12-01,Outside Left,,,,
@@ -618,6 +619,7 @@ MarquisFred18990615,Marquis,Fred,Fred Marquis,1899-06-15,Center Forward,,,,
 MartinBarrie19350929,Martin,Barrie,Barrie Martin,1935-09-29,Left Back,,Left-Back,,
 MartinDavid19860122,Martin,David,David Martin,1986-01-22,,Goalkeeper,Goalkeeper,,
 MartindaleDave19640409,Martindale,Dave,Dave Martindale,1964-04-09,Midfielder,,Central Midfield,Defensive Midfield,
+MatherSam20040903,Mather,Sam,Sam Mather,2004-09-03,,Midfielder,Left Winger,Attacking Midfield,Right Winger
 MathiasRay19461213,Mathias,Ray,Ray Mathias,1946-12-13,Fullback,,Right-Back,,
 MatiasPedroMiguel19731011,Matias,Pedro Miguel,Pedro Miguel Matias,1973-10-11,,Midfielder,Left Winger,,
 MatthewsVince18960115,Matthews,Vince,Vince Matthews,1896-01-15,Center Half,,,,
@@ -738,7 +740,7 @@ NixonEric19621004,Nixon,Eric,Eric Nixon,1962-10-04,Goalkeeper,Goalkeeper,Goalkee
 NolanIan19700709,Nolan,Ian,Ian Nolan,1970-07-09,Fullback,,Right-Back,Left-Back,Centre-Back
 NolanJon19920422,Nolan,Jon,Jon Nolan,1992-04-22,,Midfielder,Central Midfield,Attacking Midfield,Defensive Midfield
 NorburnOliver19921026,Norburn,Oliver,Oliver Norburn,1992-10-26,,Midfielder,Central Midfield,Defensive Midfield,
-NormanCameron19951012,Norman,Cameron,Cameron Norman,1995-10-12,,Defender,Right-Back,Centre-Back,Left-Back
+NormanCameron19951012,Norman,Cameron,Cameron Norman,1995-10-12,,Midfielder,Right-Back,Centre-Back,Left-Back
 NorrisJames20030404,Norris,James,James Norris,2003-04-04,,Defender,Left-Back,Left Midfield,Central Midfield
 NorrisLuke19930603,Norris,Luke,Luke Norris,1993-06-03,,Forward,Centre-Forward,,
 NorwoodJames19900905,Norwood,James,James Norwood,1990-09-05,,Midfielder,Centre-Forward,Right Winger,Left Winger
@@ -917,7 +919,7 @@ SpencerTeddy,Spencer,Teddy,Teddy Spencer,,Inside Left,,,,
 SpinkTony19291116,Spink,Tony,Tony Spink,1929-11-16,Center Forward,,,,
 StJohnIan19380607,St John,Ian,Ian St John,1938-06-07,Center Forward,,,,
 StanleyGraham19380127,Stanley,Graham,Graham Stanley,1938-01-27,Wing Half,,,,
-StarbuckJoseph20020803,Starbuck,Joseph,Joseph Starbuck,2002-08-03,,Defender,Right-Back,Right Midfield,
+StarbuckJoseph20020803,Starbuck,Joseph,Joseph Starbuck,2002-08-03,,Midfielder,Right-Back,Right Midfield,
 SteelJim19591204,Steel,Jim,Jim Steel,1959-12-04,Center Forward,,Centre-Forward,,
 SteelePercy19231226,Steele,Percy,Percy Steele,1923-12-26,Fullback,,,,
 StephensTerry19351105,Stephens,Terry,Terry Stephens,1935-11-05,Inside Forward,,,,
@@ -995,7 +997,7 @@ VickersSteve19671013,Vickers,Steve,Steve Vickers,1967-10-13,Central Defender,,Ce
 WalkdenEdgar19141104,Walkden,Edgar,Edgar Walkden,1914-11-04,Center Half,,,,
 WalkerBrad19960425,Walker,Brad,Brad Walker,1996-04-25,,Midfielder,Defensive Midfield,Central Midfield,Centre-Back
 WalkerRiceDanny20001110,Walker-Rice,Danny,Danny Walker-Rice,2000-11-10,,Forward,Right Winger,Left Winger,
-WalkerStephen20001011,Walker,Stephen,Stephen Walker,2000-10-11,,Midfielder,Second Striker,Left Winger,Centre-Forward
+WalkerStephen20001011,Walker,Stephen,Stephen Walker,2000-10-11,,Forward,Second Striker,Left Winger,Centre-Forward
 WallaceJames19911219,Wallace,James,James Wallace,1991-12-19,,Midfielder,Central Midfield,Defensive Midfield,Attacking Midfield
 WallsArthur19310115,Walls,Arthur,Arthur Walls,1931-01-15,Forward,,,,
 WardGavin19700630,Ward,Gavin,Gavin Ward,1970-06-30,,Goalkeeper,Goalkeeper,,
