@@ -402,7 +402,7 @@ HarlockDes19221220,Harlock,Des,Des Harlock,1922-12-20,Outside Right,,,,
 HarrisAlbert19311121,Harris,Albert,Albert Harris,1931-11-21,Goalkeeper,,,,
 HarrisJay19870415,Harris,Jay,Jay Harris,1987-04-15,,Midfielder,Central Midfield,Attacking Midfield,Defensive Midfield
 HarrisJimmy19330818,Harris,Jimmy,Jimmy Harris,1933-08-18,Center Forward,,,,
-HarrisTaylan20051030,Harris,Taylan,Taylan Harris,2005-10-30,,Midfielder,,,
+HarrisTaylan20051030,Harris,Taylan,Taylan Harris,2005-10-30,,Forward,,,
 HarrisonDanny19821104,Harrison,Danny,Danny Harrison,1982-11-04,,Midfielder,Central Midfield,Defensive Midfield,Centre-Back
 HarropBobby19360825,Harrop,Bobby,Bobby Harrop,1936-08-25,Wing Half,,,,
 HartJoe19870419,Hart,Joe,Joe Hart,1987-04-19,,Goalkeeper,Goalkeeper,,
@@ -511,8 +511,8 @@ JonesAndrai19920101,Jones,Andrai,Andrai Jones,1992-01-01,,Defender,Attacking Mid
 JonesBen20001129,Jones,Ben,Ben Jones,2000-11-29,,Goalkeeper,Goalkeeper,,
 JonesBenny19200323,Jones,Benny,Benny Jones,1920-03-23,Winger,,,,
 JonesDerek19290424,Jones,Derek,Derek Jones,1929-04-24,Fullback,,,,
+JonesDylan20050103,Jones,Dylan,Dylan Jones,2005-01-03,,Forward,,,
 JonesEthan19980404,Jones,Ethan,Ethan Jones,1998-04-04,,Forward,Centre-Forward,,
-JonesEthan20041016,Jones,Ethan,Ethan Jones,2004-10-16,,Defender,Central Midfield,Attacking Midfield,
 JonesGary19750510,Jones,Gary,Gary Jones,1975-05-10,Center Forward,Midfielder,Central Midfield,Striker,Centre-Back
 JonesGwyn19120221,Jones,Gwyn,Gwyn Jones,1912-02-21,Left Back,,,,
 JonesLee19730529,Jones,Lee,Lee Jones,1973-05-29,Forward,Forward,Centre-Forward,Right Winger,
@@ -596,7 +596,7 @@ LongNick20010110,Long,Nick,Nick Long,2001-01-10,,,Centre-Back,,
 LoranTyrone19810629,Loran,Tyrone,Tyrone Loran,1981-06-29,,Defender,Right-Back,Centre-Back,
 LorensonRoy19320408,Lorenson,Roy,Roy Lorenson,1932-04-08,Center Half,,,,
 LornieJack19390302,Lornie,Jack,Jack Lornie,1939-03-02,Outside Right,,,,
-LoweJason19910902,Lowe,Jason,Jason Lowe,1991-09-02,,Midfielder,,,
+LoweJason19910902,Lowe,Jason,Jason Lowe,1991-09-02,,Defender,,,
 LoweRyan19780918,Lowe,Ryan,Ryan Lowe,1978-09-18,,Forward,Centre-Forward,Second Striker,Right Winger
 LoydenEddie19451222,Loyden,Eddie,Eddie Loyden,1945-12-22,Center Forward,,Centre-Forward,,
 LucyCallum19981109,Lucy,Callum,Callum Lucy,1998-11-09,,Midfielder,Central Midfield,Attacking Midfield,Defensive Midfield
@@ -631,7 +631,7 @@ MatherSam20040903,Mather,Sam,Sam Mather,2004-09-03,,Midfielder,Left Winger,Attac
 MathiasRay19461213,Mathias,Ray,Ray Mathias,1946-12-13,Fullback,,Right-Back,,
 MatiasPedroMiguel19731011,Matias,Pedro Miguel,Pedro Miguel Matias,1973-10-11,,Midfielder,Left Winger,,
 MatthewsVince18960115,Matthews,Vince,Vince Matthews,1896-01-15,Center Half,,,,
-MaynardLois19890122,Maynard,Lois,Lois Maynard,1989-01-22,,Defender,Defensive Midfield,Central Midfield,Centre-Back
+MaynardLois19890122,Maynard,Lois,Lois Maynard,1989-01-22,,Midfielder,Defensive Midfield,Central Midfield,Centre-Back
 MaynardNicky19861211,Maynard,Nicky,Nicky Maynard,1986-12-11,,Forward,Centre-Forward,Left Winger,Right Winger
 MayorDanny19901018,Mayor,Danny,Danny Mayor,1990-10-18,,Midfielder,Central Midfield,Left Midfield,Attacking Midfield
 MaysonJohn19081024,Mayson,John,John Mayson,1908-10-24,Outside Left,,,,
@@ -717,7 +717,7 @@ MorrisCallum19920901,Morris,Callum,Callum Morris,1992-09-01,,Midfielder,Central 
 MorrisKieron19940603,Morris,Kieron,Kieron Morris,1994-06-03,,Midfielder,Right Midfield,Left Winger,Attacking Midfield
 MorrisseyJohnny19650308,Morrissey,Johnny,Johnny Morrissey,1965-03-08,Outside Right,Forward,Right Winger,Left Winger,
 MorrowSam19850303,Morrow,Sam,Sam Morrow,1985-03-03,,Forward,Centre-Forward,,
-MottleyHenryDylan19970802,Mottley-Henry,Dylan,Dylan Mottley-Henry,1997-08-02,,Midfielder,Right Midfield,Left Midfield,Attacking Midfield
+MottleyHenryDylan19970802,Mottley-Henry,Dylan,Dylan Mottley-Henry,1997-08-02,,Forward,Right Midfield,Left Midfield,Attacking Midfield
 MountfieldDerek19621102,Mountfield,Derek,Derek Mountfield,1962-11-02,Center Half,,,,
 MuirIan19630505,Muir,Ian,Ian Muir,1963-05-05,Striker,,Second Striker,Attacking Midfield,
 MulkerrinJimmy19311225,Mulkerrin,Jimmy,Jimmy Mulkerrin,1931-12-25,Inside Forward,,,,
@@ -950,6 +950,7 @@ StuartTom18931025,Stuart,Tom,Tom Stuart,1893-10-25,Left Back,,,,
 SugdenArthur1894,Sugden,Arthur,Arthur Sugden,,Right Back,,,,
 SummerbeeNicky19710826,Summerbee,Nicky,Nicky Summerbee,1971-08-26,,Midfielder,Right-Back,Central Midfield,Right Winger
 SuttonRitchie19860429,Sutton,Ritchie,Ritchie Sutton,1986-04-29,,Defender,Centre-Back,Right-Back,
+TamenWill20060512,Tamen,Will,Will Tamen,2006-05-12,,Defender,,,
 TanseyGerard19331015,Tansey,Gerard,Gerard Tansey,1933-10-15,Fullback,,,,
 TaylorAndy19860314,Taylor,Andy,Andy Taylor,1986-03-14,,Defender,Left-Back,Centre-Back,
 TaylorAsh19900902,Taylor,Ash,Ash Taylor,1990-09-02,,Defender,Centre-Back,Defensive Midfield,

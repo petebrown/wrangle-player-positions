@@ -171,7 +171,7 @@ GunningGavin19910126,Gunning,Gavin,Gavin Gunning,1991-01-26,Defender
 HallPaul19720703,Hall,Paul,Paul Hall,1972-07-03,Midfielder
 HamiltonDes19760815,Hamilton,Des,Des Hamilton,1976-08-15,Midfielder
 HarrisJay19870415,Harris,Jay,Jay Harris,1987-04-15,Midfielder
-HarrisTaylan20051030,Harris,Taylan,Taylan Harris,2005-10-30,Midfielder
+HarrisTaylan20051030,Harris,Taylan,Taylan Harris,2005-10-30,Forward
 HarrisonDanny19821104,Harrison,Danny,Danny Harrison,1982-11-04,Midfielder
 HartJoe19870419,Hart,Joe,Joe Hart,1987-04-19,Goalkeeper
 HateleyTom19890912,Hateley,Tom,Tom Hateley,1989-09-12,Midfielder
@@ -225,8 +225,8 @@ JohnstonMichael19871216,Johnston,Michael,Michael Johnston,1987-12-16,Defender
 JolleyCharlie20010113,Jolley,Charlie,Charlie Jolley,2001-01-13,Forward
 JonesAndrai19920101,Jones,Andrai,Andrai Jones,1992-01-01,Defender
 JonesBen20001129,Jones,Ben,Ben Jones,2000-11-29,Goalkeeper
+JonesDylan20050103,Jones,Dylan,Dylan Jones,2005-01-03,Forward
 JonesEthan19980404,Jones,Ethan,Ethan Jones,1998-04-04,Forward
-JonesEthan20041016,Jones,Ethan,Ethan Jones,2004-10-16,Defender
 JonesGary19750510,Jones,Gary,Gary Jones,1975-05-10,Midfielder
 JonesLee19730529,Jones,Lee,Lee Jones,1973-05-29,Forward
 JonesMike19870815,Jones,Mike,Mike Jones,1987-08-15,Midfielder
@@ -255,7 +255,7 @@ LloydDanny19911203,Lloyd,Danny,Danny Lloyd,1991-12-03,Forward
 LoganShaleum19880129,Logan,Shaleum,Shaleum Logan,1988-01-29,Defender
 LomaxArthur20040517,Lomax,Arthur,Arthur Lomax,2004-05-17,Midfielder
 LoranTyrone19810629,Loran,Tyrone,Tyrone Loran,1981-06-29,Defender
-LoweJason19910902,Lowe,Jason,Jason Lowe,1991-09-02,Midfielder
+LoweJason19910902,Lowe,Jason,Jason Lowe,1991-09-02,Defender
 LoweRyan19780918,Lowe,Ryan,Ryan Lowe,1978-09-18,Forward
 LucyCallum19981109,Lucy,Callum,Callum Lucy,1998-11-09,Midfielder
 MacDonaldCalum19971218,MacDonald,Calum,Calum MacDonald,1997-12-18,Defender
@@ -272,7 +272,7 @@ MargettsJohnny19930928,Margetts,Johnny,Johnny Margetts,1993-09-28,Forward
 MartinDavid19860122,Martin,David,David Martin,1986-01-22,Goalkeeper
 MatherSam20040903,Mather,Sam,Sam Mather,2004-09-03,Midfielder
 MatiasPedroMiguel19731011,Matias,Pedro Miguel,Pedro Miguel Matias,1973-10-11,Midfielder
-MaynardLois19890122,Maynard,Lois,Lois Maynard,1989-01-22,Defender
+MaynardLois19890122,Maynard,Lois,Lois Maynard,1989-01-22,Midfielder
 MaynardNicky19861211,Maynard,Nicky,Nicky Maynard,1986-12-11,Forward
 MayorDanny19901018,Mayor,Danny,Danny Mayor,1990-10-18,Midfielder
 McAlearReece20020212,McAlear,Reece,Reece McAlear,2002-02-12,Midfielder
@@ -312,7 +312,7 @@ MorrisCallum19920901,Morris,Callum,Callum Morris,1992-09-01,Midfielder
 MorrisKieron19940603,Morris,Kieron,Kieron Morris,1994-06-03,Midfielder
 MorrisseyJohnny19650308,Morrissey,Johnny,Johnny Morrissey,1965-03-08,Forward
 MorrowSam19850303,Morrow,Sam,Sam Morrow,1985-03-03,Forward
-MottleyHenryDylan19970802,Mottley-Henry,Dylan,Dylan Mottley-Henry,1997-08-02,Midfielder
+MottleyHenryDylan19970802,Mottley-Henry,Dylan,Dylan Mottley-Henry,1997-08-02,Forward
 MullinJohn19750811,Mullin,John,John Mullin,1975-08-11,Midfielder
 MullinPaul19941106,Mullin,Paul,Paul Mullin,1994-11-06,Forward
 MumbongoJoel19990109,Mumbongo,Joel,Joel Mumbongo,1999-01-09,Forward
@@ -421,6 +421,7 @@ StocktonCole19940313,Stockton,Cole,Cole Stockton,1994-03-13,Forward
 StratulisRyan20030418,Stratulis,Ryan,Ryan Stratulis,2003-04-18,Midfielder
 SummerbeeNicky19710826,Summerbee,Nicky,Nicky Summerbee,1971-08-26,Midfielder
 SuttonRitchie19860429,Sutton,Ritchie,Ritchie Sutton,1986-04-29,Defender
+TamenWill20060512,Tamen,Will,Will Tamen,2006-05-12,Defender
 TaylorAndy19860314,Taylor,Andy,Andy Taylor,1986-03-14,Defender
 TaylorAsh19900902,Taylor,Ash,Ash Taylor,1990-09-02,Defender
 TaylorFletcherGary19810604,Taylor-Fletcher,Gary,Gary Taylor-Fletcher,1981-06-04,Forward
